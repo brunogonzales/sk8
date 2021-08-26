@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "React Native Skateboard Deck",
+    "githubUrl": "https://github.com/brunogonzales/sk8"
   }
 }
